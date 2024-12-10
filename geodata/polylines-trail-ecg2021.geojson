@@ -913,3 +913,30 @@
 { "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.22783, 38.6516 ], [ -77.22889, 38.65135 ], [ -77.24414, 38.64971 ] ] } }
 ]
 }
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            -80.02207678562601,
+            37.558080087291486
+          ],
+          [
+            -77.2866872137001,
+            36.418984039768816
+          ],
+          [
+            -77.54249886485309,
+            37.35997517324071
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
